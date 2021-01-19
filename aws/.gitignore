@@ -1,0 +1,13 @@
+# all the packages of terraform
+*.terraform/*
+*.terraform.*
+
+# state file
+*.tfstate
+*.backup
+
+# tf file under terraforming
+terraforming/*tf
+
+# VIM
+*.swp
